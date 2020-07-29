@@ -1,3 +1,5 @@
 ﻿Hello world
 
 j'ai compris
+
+sumprimer une branch de tout: git push --delete origin foutaisse
